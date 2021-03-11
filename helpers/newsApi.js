@@ -1,4 +1,4 @@
 const NewsAPI = require('newsapi');
-const newsapi = new NewsAPI('1b5b68feb49740f89e8421f3a4a217f4');
+const newsapi = new NewsAPI('664269529a40436aacf4c742a6d9e602');
 
 export default newsapi;
